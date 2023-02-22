@@ -9,7 +9,7 @@ Use this tools properly Only for education purpose
 
 
 ## `Cyber Security Tools`
-[GitHub - cyberguideme/Tools: Cyber Security Tools](https://github.com/cyberguideme/Tools)
+
 
 ### [SecTools.Org](http://SecTools.Org): Top 125 Network Security Tools
 
