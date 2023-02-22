@@ -467,29 +467,19 @@ Use this tools properly Only for education purpose
 - [Hopper](https://www.hopperapp.com/) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
 - [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 
-[GitHub - SpectralOps/netz: Discover internet-wide misconfigurations while drinking coffee](https://github.com/spectralops/netz)
-
-[GitHub - yeti-platform/yeti: Your Everyday Threat Intelligence](https://github.com/yeti-platform/yeti)
-
-[GitHub - hakluke/hakrawler: Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application](https://github.com/hakluke/hakrawler)
-
-[GitHub - caffix/amass: In-depth Attack Surface Mapping and Asset Discovery](https://github.com/caffix/amass)
-
-[GitHub - chris408/ct-exposer: An OSINT tool that discovers sub-domains by searching Certificate Transparency logs](https://github.com/chris408/ct-exposer)
-
-[GitHub - thehappydinoa/awesome-censys-queries: A collection of fascinating and bizarre Censys Search Queries](https://github.com/thehappydinoa/awesome-censys-queries)
-
-[GitHub - evilsocket/xray: XRay is a tool for recon, mapping and OSINT gathering from public networks.](https://github.com/evilsocket/xray)
-
-[GitHub - michenriksen/aquatone: A Tool for Domain Flyovers](https://github.com/michenriksen/aquatone#installation)
-
-[metasploit-payloads/README.md at master · rapid7/metasploit-payloads](https://github.com/rapid7/metasploit-payloads/blob/master/README.md)
-
-[Amass/tutorial.md at master · OWASP/Amass](https://github.com/OWASP/Amass/blob/master/doc/tutorial.md)
-
-[GitHub - blechschmidt/massdns: A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)](https://github.com/blechschmidt/massdns)
-
-[GitHub - robertdavidgraham/masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.](https://github.com/robertdavidgraham/masscan)
+###ASSET DISCOVERY AND RECON TOOLS:
+-[SpectralOps/netz](https://github.com/spectralops/netz) -Discover internet-wide misconfigurations while drinking coffee
+-[yeti-platform/yeti](https://github.com/yeti-platform/yeti) -Your Everyday Threat Intelligence
+-[hakluke/hakrawler](https://github.com/hakluke/hakrawler) -Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web app.
+-[caffix/amass](https://github.com/caffix/amass) -In-depth Attack Surface Mapping and Asset Discovery
+-[chris408/ct-exposer](https://github.com/chris408/ct-exposer) -An OSINT tool that discovers sub-domains by searching Certificate Transparency logs
+-[thehappydinoa/awesome-censys-queries](https://github.com/thehappydinoa/awesome-censys-queries) -A collection of fascinating and bizarre Censys Search Queries
+-[evilsocket/xray](https://github.com/evilsocket/xray) -XRay is a tool for recon, mapping and OSINT gathering from public networks
+-[michenriksen/aquatone](https://github.com/michenriksen/aquatone#installation) -A Tool for Domain Flyovers and must try tool.
+-[metasploit](https://github.com/rapid7/metasploit-payloads/blob/master/README.md) -rapid7/metasploit-payloads
+-[Amass/tutorial](https://github.com/OWASP/Amass/blob/master/doc/tutorial.md) -OWASP/Amass
+-[blechschmidt/massdns](https://github.com/blechschmidt/massdns) -A high-performance DNS stub resolver for bulk lookups and reconnaissance and subdomain enumeration
+-[robertdavidgraham/masscan](https://github.com/robertdavidgraham/masscan) -TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes
 
 Download to get list of tools from [sans.org](http://sans.org)
 
