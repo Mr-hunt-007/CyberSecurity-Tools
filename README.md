@@ -467,7 +467,8 @@ Use this tools properly Only for education purpose
 - [Hopper](https://www.hopperapp.com/) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
 - [ScratchABit](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API.
 
-###ASSET DISCOVERY AND RECON TOOLS:
+###ASSET DISCOVERY AND RECON TOOLS
+
 -[SpectralOps/netz](https://github.com/spectralops/netz) -Discover internet-wide misconfigurations while drinking coffee
 -[yeti-platform/yeti](https://github.com/yeti-platform/yeti) -Your Everyday Threat Intelligence
 -[hakluke/hakrawler](https://github.com/hakluke/hakrawler) -Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web app.
