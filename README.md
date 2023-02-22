@@ -421,7 +421,7 @@ Use this tools properly Only for education purpose
 - [Public Pentesting Reports](https://github.com/juliocesarfort/public-pentesting-reports) - Curated list of public penetration test reports released by several consulting firms and academic security groups.
 - [T&VS Pentesting Report Template](https://www.testandverification.com/wp-content/uploads/template-penetration-testing-report-v03.pdf) - Pentest report template provided by Test and Verification Services, Ltd.
 - [Web Application Security Assessment Report Template](http://lucideus.com/pdf/stw.pdf) - Sample Web application security assessment reporting template provided by Lucideus.
-- 
+
 ### ASSET DISCOVERY AND RECON TOOLS
 
 - [SpectralOps/netz](https://github.com/spectralops/netz) -Discover internet-wide misconfigurations while drinking coffee
